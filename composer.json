@@ -1,5 +1,5 @@
 {
-    "name": "givebutter/laravel-custom-fields",
+    "name": "ipop/laravel-custom-fields",
     "description": "Laravel Custom Fields is a package that allows you to add custom fields to any Laravel model and store responses to those fields on any Laravel model.",
     "keywords": [
         "custom fields",
@@ -16,6 +16,10 @@
         {
             "name": "Liran Cohen",
             "email": "liran@givebutter.com"
+        },
+        {
+            "name": "Adrian Pop",
+            "email": "ipop@eml.cc"
         }
     ],
     "require": {

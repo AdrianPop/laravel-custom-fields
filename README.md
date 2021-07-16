@@ -1,6 +1,8 @@
-# Laravel Custom Fields
+# Laravel Custom Fields for Laravel 8
 
 > ⚠️ Warning: these docs are incomplete and may reference unsupported functions. This is a pre-release version that is not yet ready for production use.
+
+> Just a fork of givebutter/laravel-custom-fields tagged for Laravel 8
 
 Laravel Custom Fields is a package that allows you to add custom fields to any Laravel model and associate responses to those fields with other models.
 
